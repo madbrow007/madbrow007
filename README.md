@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @madbrow007 aka Madison!
+# 👋 Hi, I’m @madbrow007 aka Madison!
 - 👀 I really like programming and learning new technologies!
 - 🌱 I’m currently learning AIML
 - 📫 How to reach me: madbrow007@gmail.com
